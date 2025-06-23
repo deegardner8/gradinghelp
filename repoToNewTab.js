@@ -2,9 +2,9 @@
 How to Use:
 Create a new bookmark in Chrome:
 Right-click the bookmarks bar and choose "Add page..."
-Name it something like Go to Open Pages in GitHub
+Name it something like "Open Pages GitHub Repo"
 In the URL field, paste the following code:
-This opens page in a new Tab
+This opens repo in a new Tab from a GitHub Pages
 */
 
 javascript:(function(){
